@@ -1,5 +1,5 @@
 ---
-title: "Iteration"
+title: "Functions"
 author: "Rachel Tao"
 date: "11/9/20"
 output: github_document
